@@ -1,0 +1,9 @@
+export const accentColor: string = "#20F38A";
+export const baseColor: string = "#fafafa";
+export const baseVariant: string = "#dddddd";
+export const textColor: string = "#111111";
+export const textVariant: string = "#fcfcfc";
+export const primaryColor: string = "333333";
+export const secondaryColor: string = "#DADADA";
+export const backgroundColor: string = "#FAFAFA";
+export const hoverTextColor: string = "#EEEEEE"

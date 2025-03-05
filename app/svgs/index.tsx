@@ -1,0 +1,6 @@
+export * from "./citysvg"
+export * from "./phonesvg"
+export * from "./websvg"
+export * from "./emailsvg"
+export * from "./eyLogosvg"
+export * from "./phonesvg"
